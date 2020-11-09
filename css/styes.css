@@ -2,9 +2,16 @@
     padding: 0px;
     margin: 0px;
 }
+<<<<<<< HEAD
 main{
     height: 50vh;
     margin-top: 50px;
+=======
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+>>>>>>> task001-titulo
 }
 .Container{
     width: 100%;
